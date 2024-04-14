@@ -27,7 +27,7 @@ body {
 	text-align: center;
 	line-height: 55px;
 	font-family: "Raleway", sans-serif;
-	transition: 0.2s;
+	transition: 0.3s;
 }
 
 .cabecalho a:hover .logo {
@@ -45,7 +45,7 @@ body {
 .cabecalho .menu li a:hover {
 	background-color: #9443d8;
 	color: #fff;
-	border-radius: 50px;
+	border-radius: 60px;
 }
 
 .home {
@@ -96,7 +96,7 @@ body {
 .home .redes-sociais a i:hover {
 	color: #9443d8;
 	border: 1px solid #9443d8;
-	transform: scale(1.1);
+	transform: scale(1.5);
 }
 
 .home .container-foto .foto {
@@ -121,7 +121,7 @@ body {
 
 .projetos .titulo {
 	text-align: center;
-	padding: 60px 0;
+	padding: 50px 0;
 	font-size: 45px;
 	font-weight: 500;
 	text-transform: uppercase;
